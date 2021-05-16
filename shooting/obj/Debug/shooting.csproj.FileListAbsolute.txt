@@ -1,0 +1,36 @@
+C:\Users\Liza\source\repos\shooting\shooting\bin\Debug\shooting.exe.config
+C:\Users\Liza\source\repos\shooting\shooting\bin\Debug\shooting.exe
+C:\Users\Liza\source\repos\shooting\shooting\bin\Debug\shooting.pdb
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\shooting.csprojAssemblyReference.cache
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\MainWindow.g.cs
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\App.g.cs
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\shooting_MarkupCompile.cache
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\shooting_MarkupCompile.lref
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\MainWindow.baml
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\shooting.g.resources
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\shooting.Properties.Resources.resources
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\shooting.csproj.GenerateResource.cache
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\shooting.csproj.CoreCompileInputs.cache
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\shooting.exe
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\shooting.pdb
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\Shooting.g.cs
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Liza\source\repos\shooting\shooting\obj\Debug\Shooting.baml
+C:\Users\Liza\source\repos old\shooting\shooting\bin\Debug\shooting.exe.config
+C:\Users\Liza\source\repos old\shooting\shooting\bin\Debug\shooting.exe
+C:\Users\Liza\source\repos old\shooting\shooting\bin\Debug\shooting.pdb
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\shooting.csprojAssemblyReference.cache
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\MainWindow.g.cs
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\Shooting.g.cs
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\App.g.cs
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\shooting_MarkupCompile.cache
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\shooting_MarkupCompile.lref
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\MainWindow.baml
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\Shooting.baml
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\shooting.g.resources
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\shooting.Properties.Resources.resources
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\shooting.csproj.GenerateResource.cache
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\shooting.csproj.CoreCompileInputs.cache
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\shooting.exe
+C:\Users\Liza\source\repos old\shooting\shooting\obj\Debug\shooting.pdb
